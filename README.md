@@ -1,38 +1,25 @@
-<div align="center">
+# Samar Alqahtani
 
-<h1>Samar Alqahtani</h1>
-<sub><strong>S O F T W A R E &nbsp; E N G I N E E R</strong></sub>
+Software Engineer
 
-</div>
-
-<br/>
-
-<blockquote>
 Building software and digital products with a focus on quality, usability, and real-world impact.
-</blockquote>
 
 <br/>
 
-<a href="https://samar-portfolio-mu.vercel.app/">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" width="18" height="18" alt=""/>
-  &nbsp;Portfolio
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/samar-alqahtani-8814241a7">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=white" width="18" height="18" alt=""/>
-  &nbsp;LinkedIn
-</a>
-<br/>
-<a href="mailto:samarsalemqq@gmail.com">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=white" width="18" height="18" alt=""/>
-  &nbsp;Email
-</a>
-
-<br/>
-<br/>
-
-<hr/>
-
-<div align="center">
-<sub>Case studies and the full body of work live on the <a href="https://samar-portfolio-mu.vercel.app/">portfolio</a>.</sub>
-</div>
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="24"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vercel&logoColor=white" width="18" height="18" alt=""/></td>
+    <td width="90"><strong>Portfolio</strong></td>
+    <td><a href="https://samar-portfolio-mu.vercel.app/">samar-portfolio-mu.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td width="24"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=white" width="18" height="18" alt=""/></td>
+    <td width="90"><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/samar-alqahtani-8814241a7">linkedin.com/in/samar-alqahtani</a></td>
+  </tr>
+  <tr>
+    <td width="24"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=white" width="18" height="18" alt=""/></td>
+    <td width="90"><strong>Email</strong></td>
+    <td><a href="mailto:samarsalemqq@gmail.com">samarsalemqq@gmail.com</a></td>
+  </tr>
+</table>
